@@ -1,0 +1,55 @@
+Sonic '06 Mod Manager
+4/17/2020 12:57:56 AM
+
+Build:
+Type: Release
+Version: Version 3.21
+Architecture: x86
+
+Specifications:
+OS: Microsoft Windows 10 Professionnel
+CPU: AMD E1-2100 APU with Radeon(TM) HD Graphics    
+RAM: 4 GB
+GPU #0: AMD Radeon HD 8210
+
+Mods:
+Legacy of Solaris
+
+Settings:
+Tweak_AmyHammerRange: 50.0
+Tweak_CameraType: 0
+General_LastSoftwareUpdate: 637226810320590667
+General_AutoUninstall: False
+Tweak_FieldOfView: 0.785398185253143
+Tweak_TailsFlightLimit: False
+Emulator_UserLanguage: 0
+Emulator_ForceRTV: False
+Tweak_BeginWithRings: 0
+General_Priority: True
+Tweak_AntiAliasing: 1
+Emulator_DoubleResolution: False
+Emulator_VerticalSync: True
+Tweak_CameraHeight: 70.0
+Path_GameDirectory: C:\Users\Blast\Desktop\Sonic 06 Modding\BLUS30008-[SONIC THE HEDGEHOG]\PS3_GAME\USRDIR\EBOOT.BIN
+General_Debug: False
+General_LaunchEmulator: False
+General_AccentColour: 186, 0, 0
+Emulator_Arguments: 
+Path_EmulatorDirectory: 
+Emulator_API: 0
+General_HighContrastText: False
+General_AutoColour: False
+General_FirstLaunch: False
+General_SaveFileRedirection: False
+Tweak_ForceMSAA: False
+Tweak_CameraDistance: 650
+Emulator_DiscordRPC: True
+Path_SaveData: 
+Emulator_Gamma: True
+Path_ModsDirectory: C:\Users\Blast\Desktop\Sonic 06 Modding\Sonic 06 Mods
+Tweak_Renderer: 1
+General_CheckUpdatesOnLaunch: True
+General_LastPatchUpdate: 637226803424482334
+Emulator_Fullscreen: True
+General_LastModUpdate: 0
+Tweak_Reflections: 1
